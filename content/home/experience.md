@@ -23,10 +23,11 @@ date_format = "Jan 2006"
   company_url = "https://www.ntnu.edu/biology"
   location = "Trondheim"
   date_start = "2017-03-01"
-  date_end = "2020-02-27"
+  date_end = "2020-09-18"
   description = """
-- Development of a guideline for the representation of causal interactions in molecular biology.
-- Data extraction of causal statements from prior-knowledge.
+- Development of minimum information guidelines for the standardization of causal interactions curation in molecular biology ([MI2CAST](https://github.com/MI2CAST/MI2CAST)).
+- Development of the [causalBuilder](https://mi2cast.github.io/causalBuilder/) web interface for the curation of causal statements following MI2CAST.
+- Data extraction of causal statements from Reactome pathway database.
 - Standardisation of the DrugLogics’ pipeline to build logical model from causal statements ([The Druglogics project](https://druglogics.eu/)).
 - Co-supervision of Eirini Tsirvouli’s master thesis.
 - Involved in the [GREEKC consortium](http://greekc.org/) for the construction of a Knowledge Commons for Gene Regulation.
